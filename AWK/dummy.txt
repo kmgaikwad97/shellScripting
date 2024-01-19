@@ -1,12 +1,12 @@
+
 id	firstName	lastName	design	dept	salary
 1	Dexter	Wyman	Manager	Loan	3200 
 2	Adrianna	Hansen	Cashier	Cash	34300
 3	Noe	Champlin	Associate	Loan	3253
+
 4	Lorenza	Roberts	Accountant	Account	435756
 5	Sonny	Barrows	Associate	Deposit	54765
 6	Norval	Dibbert	Manager	Account	56488
 8	Helmer	Shields	LEAD	Cash	89787
 9	Shanna	Terry	Manager	IT	78768
 10	Stacey	Greenholt	Probation	LOAN    78768
-
-
